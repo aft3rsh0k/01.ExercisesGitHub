@@ -136,7 +136,7 @@ namespace _03.Hotel_roms
                     Console.WriteLine("Apartment: {0:f2} lv.", apartmentPrice);
                     Console.WriteLine("Studio: {0:f2} lv.", studioPrice);
                 }
-            }     
+            } //Finish the exercise    
         }
     }
 }
